@@ -8,3 +8,8 @@ Coverage:
 *  5. Preprocess of audio data for ML.
 *  6. Understand math behind audio data. 
 *  7. Use `librosa` for audio projects.
+
+
+
+## Useful Resources
+[Audio Signal Processing for Machine Learning](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)
