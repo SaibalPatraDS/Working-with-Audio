@@ -13,3 +13,5 @@ Coverage:
 
 ## Useful Resources
 [Audio Signal Processing for Machine Learning](https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0)
+[Github Link](https://github.com/musikalkemist/DeepLearningForAudioWithPython)
+[Deep Learning (for Audio) with Python](https://www.youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf)
